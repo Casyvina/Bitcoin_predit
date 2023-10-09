@@ -1,5 +1,7 @@
 # Milestone Project Time series forecasting in TensorFlow (BitPredict 💰📈)
 
+![logo](bitcoin.jpg)
+
 The goal of this notebook is to get you familiar with working with time series data.
 
 We're going to be building a series of models in an attempt to predict the price of Bitcoin. 
